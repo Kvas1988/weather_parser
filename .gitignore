@@ -1,0 +1,4 @@
+*.xlsx
+.ipynb_checkpoints/
+__pycache__/ 
+*.ipynb
